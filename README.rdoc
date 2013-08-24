@@ -1,4 +1,4 @@
-= ChargeBee Ruby Client Library
+= ChargeBee Ruby Client Library{<img src="https://www.codeship.io/projects/53ead730-eeea-0130-4694-0e7062bdfbd8/status">}[https://www.codeship.io/projects/53ead730-eeea-0130-4694-0e7062bdfbd8/status]
 
 The ruby library for integrating with ChargeBee Recurring Billing and Subscription Management solution.
 
